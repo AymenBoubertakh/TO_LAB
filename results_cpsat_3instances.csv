@@ -1,0 +1,4 @@
+instance,size,status,makespan,lower_bound,best_known,bk_type,gap_%,time_s
+ft10,10x10,OPTIMAL,930,930,930,optimum,0.0,6.74
+ta51,50x15,FEASIBLE,2769,2204,2760,optimum,0.33,301.84
+ta71,100x20,FEASIBLE,5712,3276,,best-known upper bound,,301.39

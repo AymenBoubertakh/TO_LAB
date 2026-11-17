@@ -1,0 +1,4 @@
+instance,reference,dispatch,random_best,random_mean,random_gap_%,warm_best,warm_mean,warm_gap_%
+ft10,930,1178,935,942.0,0.54,936,940.7,0.65
+ta51,2760,3382,3237,3346.3,17.28,3127,3152.0,13.3
+ta71,3276,6103,6716,6829.7,105.01,6102,6102.7,86.26

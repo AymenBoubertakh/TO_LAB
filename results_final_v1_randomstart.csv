@@ -1,0 +1,4 @@
+instance,size,reference,ref_type,cpsat,cpsat_status,cpsat_gap_%,cpsat_time_s,dispatch,dispatch_gap_%,dispatch_time_s,sa,sa_gap_%,sa_time_s
+ft10,10x10,930,best-known,930,OPTIMAL,0.0,6.7,1178,26.67,0.1,930,0.0,60.0
+ta51,50x15,2760,best-known,2769,FEASIBLE,0.33,301.8,3382,22.54,1.7,3191,15.62,60.0
+ta71,100x20,3276,lower bound,5712,FEASIBLE,74.36,301.4,6103,86.29,8.2,6780,106.96,60.0
